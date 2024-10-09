@@ -5,7 +5,7 @@
 This is a collection of interactive machine-learning experiments. Each experiment consists of 🏋️ Jupyter/Colab _notebook_ (to see how a model was trained) and 🎨 _demo page_ (to see a model in action right in your browser).
 
 - 🎨 [Launch ML experiments demo](http://rafikhamza.github.io/machine-learning-experiments/)
-- 🏋️ [Launch ML experiments Jupyter notebooks](https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/tree/master/experiments/)
+- 🏋️ [Launch ML experiments Jupyter notebooks](https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/tree/master/experiments/)
 
 > ⚠️ This repository contains machine learning **experiments** and **not** a production ready, reusable, optimised and fine-tuned code and models. This is rather a sandbox or a playground for learning and trying different machine learning approaches, algorithms and data-sets. Models might not perform well and there is a place for overfitting/underfitting.
 
@@ -46,10 +46,10 @@ A [multilayer perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron) (
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/DigitsRecognitionMLP">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/digits_recognition_mlp/digits_recognition_mlp.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/digits_recognition_mlp/digits_recognition_mlp.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/digits_recognition_mlp/digits_recognition_mlp.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/digits_recognition_mlp/digits_recognition_mlp.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -76,10 +76,10 @@ A [multilayer perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron) (
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/SketchRecognitionMLP">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/sketch_recognition_mlp/sketch_recognition_mlp.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/sketch_recognition_mlp/sketch_recognition_mlp.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/sketch_recognition_mlp/sketch_recognition_mlp.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/sketch_recognition_mlp/sketch_recognition_mlp.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -124,10 +124,10 @@ A [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neu
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/DigitsRecognitionCNN">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/digits_recognition_cnn/digits_recognition_cnn.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/digits_recognition_cnn/digits_recognition_cnn.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/digits_recognition_cnn/digits_recognition_cnn.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/digits_recognition_cnn/digits_recognition_cnn.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -154,10 +154,10 @@ A [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neu
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/SketchRecognitionCNN">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/sketch_recognition_cnn/sketch_recognition_cnn.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/sketch_recognition_cnn/sketch_recognition_cnn.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/sketch_recognition_cnn/sketch_recognition_cnn.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/sketch_recognition_cnn/sketch_recognition_cnn.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -184,10 +184,10 @@ A [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neu
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/RockPaperScissorsCNN">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_cnn/rock_paper_scissors_cnn.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_cnn/rock_paper_scissors_cnn.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_cnn/rock_paper_scissors_cnn.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_cnn/rock_paper_scissors_cnn.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -214,10 +214,10 @@ A [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neu
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/RockPaperScissorsMobilenetV2">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_mobilenet_v2/rock_paper_scissors_mobilenet_v2.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_mobilenet_v2/rock_paper_scissors_mobilenet_v2.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_mobilenet_v2/rock_paper_scissors_mobilenet_v2.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_mobilenet_v2/rock_paper_scissors_mobilenet_v2.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -249,10 +249,10 @@ A [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neu
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/ObjectsDetectionSSDLiteMobilenetV2">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/objects_detection_ssdlite_mobilenet_v2/objects_detection_ssdlite_mobilenet_v2.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/objects_detection_ssdlite_mobilenet_v2/objects_detection_ssdlite_mobilenet_v2.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/objects_detection_ssdlite_mobilenet_v2/objects_detection_ssdlite_mobilenet_v2.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/objects_detection_ssdlite_mobilenet_v2/objects_detection_ssdlite_mobilenet_v2.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -281,10 +281,10 @@ A [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neu
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/ImageClassificationMobilenetV2">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/image_classification_mobilenet_v2/image_classification_mobilenet_v2.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/image_classification_mobilenet_v2/image_classification_mobilenet_v2.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/image_classification_mobilenet_v2/image_classification_mobilenet_v2.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/image_classification_mobilenet_v2/image_classification_mobilenet_v2.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -330,10 +330,10 @@ A [recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_netw
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/NumbersSummationRNN">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/numbers_summation_rnn/numbers_summation_rnn.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/numbers_summation_rnn/numbers_summation_rnn.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/numbers_summation_rnn/numbers_summation_rnn.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/numbers_summation_rnn/numbers_summation_rnn.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -359,10 +359,10 @@ A [recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_netw
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/TextGenerationShakespeareRNN">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/text_generation_shakespeare_rnn/text_generation_shakespeare_rnn.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/text_generation_shakespeare_rnn/text_generation_shakespeare_rnn.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/text_generation_shakespeare_rnn/text_generation_shakespeare_rnn.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/text_generation_shakespeare_rnn/text_generation_shakespeare_rnn.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -390,10 +390,10 @@ A [recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_netw
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/TextGenerationWikipediaRNN">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/text_generation_wikipedia_rnn/text_generation_wikipedia_rnn.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/text_generation_wikipedia_rnn/text_generation_wikipedia_rnn.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/text_generation_wikipedia_rnn/text_generation_wikipedia_rnn.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/text_generation_wikipedia_rnn/text_generation_wikipedia_rnn.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -421,10 +421,10 @@ A [recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_netw
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/RecipeGenerationRNN">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/recipe_generation_rnn/recipe_generation_rnn.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/recipe_generation_rnn/recipe_generation_rnn.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/recipe_generation_rnn/recipe_generation_rnn.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/recipe_generation_rnn/recipe_generation_rnn.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -474,10 +474,10 @@ A [generative adversarial network](https://en.wikipedia.org/wiki/Generative_adve
         <a href="https://rafikhamza.github.io/machine-learning-experiments/#/experiments/ClothesGenerationDCGAN">
           <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
         </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/clothes_generation_dcgan/clothes_generation_dcgan.ipynb">
+        <a href="https://nbviewer.jupyter.org/github/rafikhamza/machine-learning-experiments/blob/master/experiments/clothes_generation_dcgan/clothes_generation_dcgan.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
         </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/clothes_generation_dcgan/clothes_generation_dcgan.ipynb">
+        <a href="https://colab.research.google.com/github/rafikhamza/machine-learning-experiments/blob/master/experiments/clothes_generation_dcgan/clothes_generation_dcgan.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
         </a>
       </td>
@@ -593,15 +593,15 @@ In case if you have Python version `3.7.3` you might experience `RuntimeError: d
 
 ## You might also be interested in
 
-- [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning/) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained.
-- [NanoNeuron](https://github.com/trekhleb/nano-neuron) - 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn".
-- [Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python) - Collection of Python scripts that are split by topics and contain code examples with explanations.
+- [Homemade Machine Learning](https://github.com/rafikhamza/homemade-machine-learning/) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained.
+- [NanoNeuron](https://github.com/rafikhamza/nano-neuron) - 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn".
+- [Playground and Cheatsheet for Learning Python](https://github.com/rafikhamza/learn-python) - Collection of Python scripts that are split by topics and contain code examples with explanations.
 
 ## Articles
 
-- 📝 [Story behind the project](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/story.en.md)
-- 📝 [Generating cooking recipes using TensorFlow and LSTM Recurrent Neural Network](https://github.com/trekhleb/machine-learning-experiments/blob/master/assets/recipes_generation.en.md) (a step-by-step guide)
+- 📝 [Story behind the project](https://github.com/rafikhamza/machine-learning-experiments/blob/master/assets/story.en.md)
+- 📝 [Generating cooking recipes using TensorFlow and LSTM Recurrent Neural Network](https://github.com/rafikhamza/machine-learning-experiments/blob/master/assets/recipes_generation.en.md) (a step-by-step guide)
 
 ## Author
 
-- [@trekhleb](https://trekhleb.dev)
+- [@rafikhamza](https://rafikhamza.dev)
