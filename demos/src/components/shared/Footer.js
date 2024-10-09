@@ -7,7 +7,7 @@ import MenuBookIcon from '@material-ui/icons/MenuBook';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import Tooltip from '@material-ui/core/Tooltip';
 
-import { ML_EXPERIMENTS_GITHUB_URL, TREKHLEB_DEV_URL } from '../../constants/links';
+import { ML_EXPERIMENTS_GITHUB_URL, HAMZA_DEV_URL } from '../../constants/links';
 
 const Footer = (): Node => (
   <>
@@ -29,9 +29,9 @@ const Footer = (): Node => (
           <Button
             size="small"
             startIcon={<MenuBookIcon />}
-            onClick={() => window.open(TREKHLEB_DEV_URL, '_blank')}
+            onClick={() => window.open(HAMZA_DEV_URL, '_blank')}
           >
-            trekhleb.dev
+            HAMZA.dev
           </Button>
         </Tooltip>
       </Box>

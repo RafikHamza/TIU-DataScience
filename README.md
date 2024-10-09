@@ -604,4 +604,4 @@ In case if you have Python version `3.7.3` you might experience `RuntimeError: d
 
 ## Author
 
-- [@rafikhamza](https://rafikhamza.dev)
+- [@trekhleb](https://trekhleb.dev)
